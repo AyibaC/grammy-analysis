@@ -1,0 +1,4 @@
+requests
+dotenv
+psycopg2-binary
+pytest
