@@ -2,3 +2,7 @@ requests
 dotenv
 psycopg2-binary
 pytest
+google-cloud-bigquery
+google-auth
+pandas-gbq
+kagglehub
